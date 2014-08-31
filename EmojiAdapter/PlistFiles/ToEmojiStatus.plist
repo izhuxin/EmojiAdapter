@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>🎤</key>
+	<string>st001</string>
+	<key>🎵</key>
+	<string>st002</string>
+	<key>🌙</key>
+	<string>st006</string>
+	<key>💩</key>
+	<string>st007</string>
+	<key>👑</key>
+	<string>st008</string>
+	<key>🔥</key>
+	<string>st009</string>
+	<key>💰</key>
+	<string>st010</string>
+	<key>💉</key>
+	<string>st011</string>
+	<key>💤</key>
+	<string>st012</string>
+	<key>🎾</key>
+	<string>st016</string>
+	<key>🎄</key>
+	<string>st022</string>
+	<key>💍</key>
+	<string>st023</string>
+	<key>💎</key>
+	<string>st024</string>
+	<key>🎷</key>
+	<string>st025</string>
+	<key>🎸</key>
+	<string>st026</string>
+	<key>🎺</key>
+	<string>st027</string>
+	<key>🏀</key>
+	<string>st028</string>
+	<key>🏈</key>
+	<string>st029</string>
+	<key>🎱</key>
+	<string>st030</string>
+	<key>🍴</key>
+	<string>st031</string>
+	<key>🎒</key>
+	<string>st032</string>
+	<key>🌊</key>
+	<string>st033</string>
+	<key>🎁</key>
+	<string>st036</string>
+	<key>🎉</key>
+	<string>st042</string>
+	<key>🎬</key>
+	<string>st043</string>
+	<key>🎶</key>
+	<string>st044</string>
+	<key>💦</key>
+	<string>st045</string>
+	<key>🎐</key>
+	<string>st048</string>
+	<key>🎃</key>
+	<string>st049</string>
+	<key>🎨</key>
+	<string>st050</string>
+</dict>
+</plist>
